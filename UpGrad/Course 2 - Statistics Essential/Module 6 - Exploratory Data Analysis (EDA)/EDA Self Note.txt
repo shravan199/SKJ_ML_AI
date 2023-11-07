@@ -1,0 +1,8 @@
+1. Uni-variate Analysis-In this, we are looking to understand a particular column, to see it pattern, to see it distribution, to see how the number are spread out (EX- std. div, IQR), 
+
+2. Segmented Uni-variate Analysis-In this, we see how they (variables) are different across one from the another. comparing b/w variables (mean, median)
+
+3. Bi-Variate Analysis-We are seeing how one variable influences another (means corelation)
+
+
+
